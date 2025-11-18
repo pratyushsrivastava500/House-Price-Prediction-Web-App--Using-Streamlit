@@ -258,17 +258,18 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👤 Author
+## 🙏 Acknowledgments
 
-**Pratyush Srivastava**
-
-- 🌐 GitHub: [@pratyushsrivastava500](https://github.com/pratyushsrivastava500)
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/yourprofile)
-- 📧 Email: your.email@example.com
+- **Bangalore House Price Dataset** contributors
+- **Scikit-learn** for ML algorithms
+- **Streamlit** for the UI framework
+- **Pandas & NumPy** for data processing
 
 ## 📧 Contact
 
 For questions or support, please open an issue on GitHub.
+
+⚠️ **Disclaimer:** This tool is for informational purposes only and should not replace professional real estate advice or property valuation services.
 
 ---
 
