@@ -1072,8 +1072,7 @@ SOFTWARE.
 **Pratyush Srivastava**
 
 - 🌐 GitHub: [@pratyushsrivastava500](https://github.com/pratyushsrivastava500)
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/yourprofile)
-- 📧 Email: your.email@example.com
+
 
 ### About Me
 
