@@ -31,7 +31,7 @@ The Bangalore House Price Prediction app enables users to:
 - Production-ready error handling
 
 ### 💻 User Experience
-- Clean, intuitive Streamlit interface
+- Clean, intuitive Streamlit User interface
 - Input validation with helpful error messages
 - Dual currency display (Lakhs/Crores)
 - Responsive design for all devices
